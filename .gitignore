@@ -22,6 +22,7 @@ yarn-error.log*
 # IDE
 .idea/
 .vscode/
+.qoder/
 *.swp
 *.swo
 *~
@@ -48,6 +49,19 @@ frontend/dist/
 # Zip files
 *.zip
 
-# Temporary files
+# Temporary/Development files
 TEMP.TXT
 output.txt
+*.txt
+!README.txt
+AGENTS.md
+IMPLEMENTATION_SUMMARY.md
+audit_gpt.py
+audit_gpt_improved.py
+server.py
+test_*.py
+data*.py
+demo_*.json
+prompt.txt
+summary.txt
+*.pdf
