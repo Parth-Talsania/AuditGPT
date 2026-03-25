@@ -1,0 +1,106 @@
+======================================================================
+                    AUDITGPT FORENSIC ANALYSIS REPORT
+======================================================================
+
+Company: DLF Ltd
+Ticker: DLF
+Sector: INFRA
+Analysis Date: 2026-03-24 17:28:51
+
+----------------------------------------------------------------------
+                         FRAUD RISK ASSESSMENT
+----------------------------------------------------------------------
+
+🟢 FRAUD RISK SCORE: 15.6/100 (LOW)
+
+📋 EXECUTIVE SUMMARY:
+✅ LOW RISK: Financial patterns appear healthy.
+   No major red flags detected. Company shows stable financial trends.
+
+   Total Anomalies Found: 7
+   - Critical: 0
+   - High: 0
+   - Medium: 3
+
+----------------------------------------------------------------------
+                          RED FLAG TIMELINE
+----------------------------------------------------------------------
+
+📅 2016:
+   🟡 [MEDIUM] Debtor days spiked from 76 to 126
+      Pattern: Debtor days increasing abnormally
+   🟢 [LOW] Debtor days 126 exceeds industry norm of 120
+      Pattern: Slower collections than industry average
+
+📅 2017:
+   🟡 [MEDIUM] Other Income grew 126% vs Revenue 7% - now 13.8% of revenue
+      Pattern: Unusual Other Income growth may indicate related party transactions or one-time gains
+
+📅 2018:
+   🟢 [LOW] debt_equity: Value 0.5 deviates significantly from historical pattern (mean: 1.0)
+      Pattern: Statistical anomaly in historical trend
+   🟡 [MEDIUM] Other Income grew 1821% vs Revenue -32% - now 145.0% of revenue
+      Pattern: Unusual Other Income growth may indicate related party transactions or one-time gains
+
+📅 2019:
+   🟢 [LOW] opm: Value 26.0 deviates significantly from historical pattern (mean: 39.0)
+      Pattern: Statistical anomaly in historical trend
+
+📅 2025:
+   🟢 [LOW] ROCE 7.0% below industry minimum of 10%
+      Pattern: Below industry average return on capital
+
+----------------------------------------------------------------------
+                       INDUSTRY PEER COMPARISON
+----------------------------------------------------------------------
+
+Peers Analyzed: LT, ADANIENT, ADANIPORTS, POWERGRID
+
+Metric Comparison:
+
+   Revenue Growth:
+      Company: 0.24
+      Peer Avg: 0.08
+      ✅ Position: ABOVE peers by 212.9%
+
+   Operating Margin:
+      Company: 26.00
+      Peer Avg: 43.25
+      ⚠️ Position: BELOW peers by 39.9%
+
+   ROCE:
+      Company: 7.00
+      Peer Avg: 12.50
+      ⚠️ Position: BELOW peers by 44.0%
+
+   Debt/Equity:
+      Company: 0.04
+      Peer Avg: 1.39
+      ✅ Position: BETTER peers by 97.0%
+
+   Debtor Days:
+      Company: 37.00
+      Peer Avg: 57.25
+      ✅ Position: BETTER peers by 35.4%
+
+----------------------------------------------------------------------
+                        KEY FINANCIAL TRENDS
+----------------------------------------------------------------------
+
+📈 Revenue (Last 5 Years):
+   2021: ₹5,414 Cr
+   2022: ₹5,717 Cr
+   2023: ₹5,695 Cr
+   2024: ₹6,427 Cr
+   2025: ₹7,994 Cr
+
+💰 Cash from Operations (Last 5 Years):
+   2021: ₹1,460 Cr
+   2022: ₹2,832 Cr
+   2023: ₹2,375 Cr
+   2024: ₹2,539 Cr
+   2025: ₹5,235 Cr
+
+======================================================================
+                         END OF REPORT
+======================================================================

@@ -1,0 +1,128 @@
+======================================================================
+                    AUDITGPT FORENSIC ANALYSIS REPORT
+======================================================================
+
+Company: Axis Bank Ltd
+Ticker: AXISBANK
+Sector: BANK
+Analysis Date: 2026-03-24 19:13:47
+
+----------------------------------------------------------------------
+                         FRAUD RISK ASSESSMENT
+----------------------------------------------------------------------
+
+🟡 FRAUD RISK SCORE: 29.4/100 (MEDIUM)
+
+📋 EXECUTIVE SUMMARY:
+📊 MODERATE RISK: Some concerns identified but manageable.
+   Key concern: sudden profit collapse detected suggesting NPA or provisioning problems.
+
+   Total Anomalies Found: 3
+   - Critical: 0
+   - High: 3
+   - Medium: 0
+
+----------------------------------------------------------------------
+              RED FLAG TIMELINE (WITH SOURCE REFERENCES)
+----------------------------------------------------------------------
+
+(Each flag includes: Year, Statement Type, and Exact Source Reference)
+
+📅 2017:
+   🟠 [HIGH] Net profit dropped 52.5% from ₹8,358 Cr to ₹3,967 Cr
+      Pattern: Sudden profit collapse - potential asset quality issues or provisioning spike
+      📄 Statement: Profit & Loss Statement
+      📍 Source: P&L > Net Profit+ > FY2017
+
+📅 2018:
+   🟠 [HIGH] Net profit dropped 88.3% from ₹3,967 Cr to ₹464 Cr
+      Pattern: Sudden profit collapse - potential asset quality issues or provisioning spike
+      📄 Statement: Profit & Loss Statement
+      📍 Source: P&L > Net Profit+ > FY2018
+
+📅 2020:
+   🟠 [HIGH] Net profit dropped 62.8% from ₹5,047 Cr to ₹1,879 Cr
+      Pattern: Sudden profit collapse - potential asset quality issues or provisioning spike
+      📄 Statement: Profit & Loss Statement
+      📍 Source: P&L > Net Profit+ > FY2020
+
+----------------------------------------------------------------------
+              AUDITOR NOTE SENTIMENT ANALYSIS
+----------------------------------------------------------------------
+
+(Tracks how auditor language changed over the filing history)
+
+📝 Auditor Sentiment Trend:
+   2014: 🟢 [STABLE] Hedging Score: -2
+   2015: 🟢 [STABLE] Hedging Score: -2
+   2016: 🟢 [STABLE] Hedging Score: -2
+   2017: 🟡 [NEUTRAL] Hedging Score: 2
+         Keywords detected: true and fair view
+   2018: 🟡 [NEUTRAL] Hedging Score: 2
+         Keywords detected: true and fair view
+   2019: 🟢 [STABLE] Hedging Score: -2
+   2020: 🟡 [NEUTRAL] Hedging Score: 2
+         Keywords detected: true and fair view
+   2021: 🟢 [STABLE] Hedging Score: -2
+   2022: 🟢 [STABLE] Hedging Score: -2
+   2023: 🟢 [STABLE] Hedging Score: -2
+   2024: 🟢 [STABLE] Hedging Score: -2
+   2025: 🟢 [STABLE] Hedging Score: -2
+
+   ℹ️  TREND: Auditor language sentiment relatively stable
+
+----------------------------------------------------------------------
+         RELATED PARTY TRANSACTION (RPT) PROXY ANALYSIS
+----------------------------------------------------------------------
+
+(Using 'Other Income' as proxy for unusual transaction patterns)
+
+📊 Other Income vs Revenue Trend:
+
+   Year    Other Income    Revenue      OI/Rev %    Trend
+   -------------------------------------------------------
+   2016    ₹     9,955    ₹    41,409      24.0%    -
+   2017    ₹    12,422    ₹    45,175      27.5%    ↑ UP
+   2018    ₹    11,863    ₹    46,614      25.4%    ↓ DOWN
+   2019    ₹    14,189    ₹    56,044      25.3%    → STABLE
+   2020    ₹    16,342    ₹    63,716      25.6%    → STABLE
+   2021    ₹    13,577    ₹    64,397      21.1%    ↓ DOWN
+   2022    ₹    17,268    ₹    68,846      25.1%    ↑ UP
+   2023    ₹    18,349    ₹    87,448      21.0%    ↓ DOWN
+   2024    ₹    25,230    ₹   112,759      22.4%    → STABLE
+   2025    ₹    28,543    ₹   127,374      22.4%    → STABLE
+
+----------------------------------------------------------------------
+                       INDUSTRY PEER COMPARISON
+----------------------------------------------------------------------
+
+Peers Analyzed: HDFCBANK, ICICIBANK, KOTAKBANK, SBIN, PNB
+
+Metric Comparison:
+
+   Revenue Growth:
+      Company: 0.13
+      Peer Avg: 0.16
+      ⚠️ Position: BELOW peers by 16.5%
+
+----------------------------------------------------------------------
+                        KEY FINANCIAL TRENDS
+----------------------------------------------------------------------
+
+📈 Revenue (Last 5 Years):
+   2021: ₹64,397 Cr
+   2022: ₹68,846 Cr
+   2023: ₹87,448 Cr
+   2024: ₹112,759 Cr
+   2025: ₹127,374 Cr
+
+💰 Cash from Operations (Last 5 Years):
+   2021: ₹12,633 Cr
+   2022: ₹28,137 Cr
+   2023: ₹22,075 Cr
+   2024: ₹-5,555 Cr
+   2025: ₹44,384 Cr
+
+======================================================================
+                         END OF REPORT
+======================================================================

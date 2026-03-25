@@ -1,0 +1,96 @@
+======================================================================
+                    AUDITGPT FORENSIC ANALYSIS REPORT
+======================================================================
+
+Company: Infosys Ltd
+Ticker: INFY
+Sector: IT
+Analysis Date: 2026-03-24 17:26:42
+
+----------------------------------------------------------------------
+                         FRAUD RISK ASSESSMENT
+----------------------------------------------------------------------
+
+🟢 FRAUD RISK SCORE: 11.2/100 (LOW)
+
+📋 EXECUTIVE SUMMARY:
+✅ LOW RISK: Financial patterns appear healthy.
+   No major red flags detected. Company shows stable financial trends.
+
+   Total Anomalies Found: 4
+   - Critical: 0
+   - High: 0
+   - Medium: 3
+
+----------------------------------------------------------------------
+                          RED FLAG TIMELINE
+----------------------------------------------------------------------
+
+📅 2019:
+   🟢 [LOW] opm: Value 24.0 deviates significantly from historical pattern (mean: 27.2)
+      Pattern: Statistical anomaly in historical trend
+
+📅 2023:
+   🟡 [MEDIUM] Revenue grew 46.1% but CFO grew only -3.3% over 3 years
+      Pattern: Revenue growing faster than operating cash flow
+   🟡 [MEDIUM] Debt increased by 51.6% in one year
+      Pattern: Debt growing faster than assets
+
+📅 2025:
+   🟡 [MEDIUM] Working capital days increased from 15 to 39
+      Pattern: Working capital days increasing significantly
+
+----------------------------------------------------------------------
+                       INDUSTRY PEER COMPARISON
+----------------------------------------------------------------------
+
+Peers Analyzed: TCS, WIPRO, HCLTECH, TECHM
+
+Metric Comparison:
+
+   Revenue Growth:
+      Company: 0.06
+      Peer Avg: 0.03
+      ✅ Position: ABOVE peers by 77.8%
+
+   Operating Margin:
+      Company: 24.00
+      Peer Avg: 20.25
+      ✅ Position: ABOVE peers by 18.5%
+
+   ROCE:
+      Company: 38.00
+      Peer Avg: 34.00
+      ✅ Position: ABOVE peers by 11.8%
+
+   Debt/Equity:
+      Company: 0.08
+      Peer Avg: 0.11
+      ✅ Position: BETTER peers by 26.0%
+
+   Debtor Days:
+      Company: 70.00
+      Peer Avg: 73.25
+      ✅ Position: BETTER peers by 4.4%
+
+----------------------------------------------------------------------
+                        KEY FINANCIAL TRENDS
+----------------------------------------------------------------------
+
+📈 Revenue (Last 5 Years):
+   2021: ₹100,472 Cr
+   2022: ₹121,641 Cr
+   2023: ₹146,767 Cr
+   2024: ₹153,670 Cr
+   2025: ₹162,990 Cr
+
+💰 Cash from Operations (Last 5 Years):
+   2021: ₹23,224 Cr
+   2022: ₹23,885 Cr
+   2023: ₹22,467 Cr
+   2024: ₹25,210 Cr
+   2025: ₹35,694 Cr
+
+======================================================================
+                         END OF REPORT
+======================================================================

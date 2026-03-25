@@ -1,0 +1,72 @@
+{
+  "YESBANK": {
+    "auditor_notes": {
+      "2023": "In our opinion, the standalone financial statements give a true and fair view. However, we draw attention to the material uncertainty related to the bank's elevated NPA levels and provisioning requirements. The bank has made significant progress in addressing asset quality concerns.",
+      "2022": "We report that the financial statements give a true and fair view. Emphasis of matter is drawn to the ongoing restructuring efforts and their impact on asset quality. Subject to regulatory compliance requirements being met.",
+      "2021": "Our audit is subject to certain limitations due to the exceptional circumstances. We draw attention to material uncertainty related to going concern assumptions. Except for the matters noted, the statements give a true and fair view.",
+      "2020": "We express an adverse opinion due to significant governance concerns. Material misstatement identified in loan classification. Going concern uncertainty exists. Significant doubt about the bank's ability to continue operations without regulatory support."
+    },
+    "rpt_notes": {
+      "2023": "Related party transactions disclosed in accordance with applicable accounting standards. All RPT conducted at arm's length basis. Transactions with subsidiaries and associates include inter-corporate deposits and fee income.",
+      "2022": "Transactions with related parties conducted at arm's length basis. Significant transactions include loans to group companies and management remuneration.",
+      "2021": "Related party disclosures as per regulatory requirements. Loans and advances to related parties increased significantly. Key management personnel compensation disclosed.",
+      "2020": "Loans and advances to related parties increased by 140% primarily to shell entities and promoter-linked companies. Significant transactions noted with Key Management Personnel. Several transactions lacked proper arm's length documentation."
+    }
+  },
+  "HDFCBANK": {
+    "auditor_notes": {
+      "2023": "In our opinion, the financial statements give a true and fair view. Unmodified opinion. No material misstatements identified.",
+      "2022": "True and fair view. Unqualified opinion. Compliance with all applicable accounting standards.",
+      "2021": "Clean opinion. Financial statements fairly represent the bank's position."
+    },
+    "rpt_notes": {
+      "2023": "All related party transactions conducted at arm's length. Regular RPT with HDFC Ltd prior to merger. Proper disclosure maintained.",
+      "2022": "RPT includes loans to subsidiaries and fee arrangements with group companies. All transactions at market rates."
+    }
+  },
+  "ICICIBANK": {
+    "auditor_notes": {
+      "2023": "Unmodified opinion. True and fair view. No qualifications.",
+      "2022": "In accordance with accounting standards. Unqualified opinion.",
+      "2021": "Fair representation. No material weaknesses identified."
+    },
+    "rpt_notes": {
+      "2023": "Related party transactions primarily with subsidiaries ICICI Prudential, ICICI Lombard. All at arm's length.",
+      "2022": "Standard RPT disclosures. Transactions with group entities within regulatory limits."
+    }
+  },
+  "SBIN": {
+    "auditor_notes": {
+      "2023": "True and fair view. Unmodified opinion with emphasis on asset quality improvements.",
+      "2022": "Unqualified opinion. Subject to certain regulatory compliances.",
+      "2021": "Material uncertainty related to NPA provisioning. Except for this, true and fair view."
+    },
+    "rpt_notes": {
+      "2023": "Related party transactions with SBI Life, SBI Cards, SBI Mutual Fund conducted at arm's length. Government guarantees and sovereign exposures disclosed separately.",
+      "2022": "Significant RPT with group companies. Inter-corporate deposits and guarantee fees received from subsidiaries.",
+      "2021": "RPT includes transactions with associate companies. Agricultural lending to government schemes noted. Staff welfare transactions disclosed."
+    }
+  },
+  "AXISBANK": {
+    "auditor_notes": {
+      "2023": "Unmodified opinion. True and fair view presented.",
+      "2022": "Clean opinion. Financial statements comply with applicable standards.",
+      "2021": "True and fair view. Emphasis of matter on COVID-related provisioning."
+    },
+    "rpt_notes": {
+      "2023": "RPT with Axis Finance, Axis Capital at arm's length. Management remuneration within regulatory limits.",
+      "2022": "Standard related party disclosures. Transactions with subsidiaries properly documented."
+    }
+  },
+  "BANKBARODA": {
+    "auditor_notes": {
+      "2023": "True and fair view. Unmodified opinion.",
+      "2022": "Unqualified opinion. Merger accounting with Dena Bank and Vijaya Bank reflected.",
+      "2021": "Subject to observations on stressed assets. True and fair view presented."
+    },
+    "rpt_notes": {
+      "2023": "RPT with BOB Financial Solutions, BOB Cards. Government-directed lending disclosed.",
+      "2022": "Post-merger integration RPT normalized. Transactions with subsidiaries at market rates."
+    }
+  }
+}

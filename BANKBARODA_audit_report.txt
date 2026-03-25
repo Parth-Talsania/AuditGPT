@@ -1,0 +1,74 @@
+======================================================================
+                    AUDITGPT FORENSIC ANALYSIS REPORT
+======================================================================
+
+Company: Bank of Baroda
+Ticker: BANKBARODA
+Sector: BANK
+Analysis Date: 2026-03-24 18:12:10
+
+----------------------------------------------------------------------
+                         FRAUD RISK ASSESSMENT
+----------------------------------------------------------------------
+
+🔴 FRAUD RISK SCORE: 46.2/100 (CRITICAL)
+
+📋 EXECUTIVE SUMMARY:
+⚠️  CRITICAL ALERT: This company exhibits severe warning signs.
+   Key concern: bank reported losses in 2016, 2018 indicating serious asset quality issues.
+
+   Total Anomalies Found: 4
+   - Critical: 4
+   - High: 0
+   - Medium: 0
+
+----------------------------------------------------------------------
+                          RED FLAG TIMELINE
+----------------------------------------------------------------------
+
+📅 2016:
+   🔴 [CRITICAL] Net profit dropped 227.4% from ₹3,950 Cr to ₹-5,033 Cr
+      Pattern: Sudden profit collapse - potential asset quality issues or provisioning spike
+   🔴 [CRITICAL] Bank reported loss of ₹5,033 Cr after profit of ₹3,950 Cr
+      Pattern: Bank turned loss-making - serious asset quality or provisioning issues
+
+📅 2018:
+   🔴 [CRITICAL] Net profit dropped 199.0% from ₹1,855 Cr to ₹-1,836 Cr
+      Pattern: Sudden profit collapse - potential asset quality issues or provisioning spike
+   🔴 [CRITICAL] Bank reported loss of ₹1,836 Cr after profit of ₹1,855 Cr
+      Pattern: Bank turned loss-making - serious asset quality or provisioning issues
+
+----------------------------------------------------------------------
+                       INDUSTRY PEER COMPARISON
+----------------------------------------------------------------------
+
+Peers Analyzed: HDFCBANK, ICICIBANK, KOTAKBANK, AXISBANK, SBIN
+
+Metric Comparison:
+
+   Revenue Growth:
+      Company: 0.08
+      Peer Avg: 0.15
+      ⚠️ Position: BELOW peers by 47.5%
+
+----------------------------------------------------------------------
+                        KEY FINANCIAL TRENDS
+----------------------------------------------------------------------
+
+📈 Revenue (Last 5 Years):
+   2021: ₹74,314 Cr
+   2022: ₹73,385 Cr
+   2023: ₹94,503 Cr
+   2024: ₹118,379 Cr
+   2025: ₹127,945 Cr
+
+💰 Cash from Operations (Last 5 Years):
+   2021: ₹-887 Cr
+   2022: ₹6,210 Cr
+   2023: ₹-21,354 Cr
+   2024: ₹-6,274 Cr
+   2025: ₹34,892 Cr
+
+======================================================================
+                         END OF REPORT
+======================================================================
